@@ -1,0 +1,8 @@
+This file contains documents created during the bootcamp including:
+
+1. Test case manual 
+2. Test plan 
+3. User Acceptance Testing (UAT) 
+4. API testing 
+
+You can access these documents at the following links: https://drive.google.com/drive/folders/1L7n1aiH2_UWJz1p-ZHkgVmEo2co5qjqf?usp=sharing
